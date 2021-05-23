@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="LLM_CLI.png" alt="Logo" width="80" height="80">
+    <img src="LLM_CLI.png" alt="Logo" width="160" height="160">
 </p>
 
 # LLM CLI
