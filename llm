@@ -1,5 +1,5 @@
 #!/bin/sh
 
 llm(){
-    python3 my_llm/llm_handler.py $1 $2 $3
+    python3 llm_handler.py $1 $2 $3
 }
