@@ -7,9 +7,9 @@
 This project is made for a **Lalamove challenge** . It is a command-line interface that emulates Lalamove. 
 
 ## Technology choices
-*Programming language*: Python 3
-*Database*: MongoDB (NoSQL)
-*Other*: Shell script
+### Programming language: Python 3
+### Database: MongoDB (NoSQL)
+### Other*: Shell script
 
 ## Structure
 1. `my_llm/llm_cli.py`
