@@ -1,6 +1,7 @@
 <p align="center">
     <img src="LLM_CLI.png" alt="Logo" width="80" height="80">
 </p>
+
 # LLM CLI
 
 This project is made for a **Lalamove challenge** . It is a command-line interface that emulates Lalamove. 
