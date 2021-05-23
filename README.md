@@ -1,14 +1,15 @@
 <p align="center">
-    <img src="LLM_CLI.png" alt="Logo" width="80" height="80">
+    <img src="LLM_CLI.png" alt="Logo" width="160" height="160">
 </p>
+
 # LLM CLI
 
 This project is made for a **Lalamove challenge** . It is a command-line interface that emulates Lalamove. 
 
 ## Technology choices
-*Programming language*: Python 3
-*Database*: MongoDB (NoSQL)
-*Other*: Shell script
+### Programming language: Python 3
+### Database: MongoDB (NoSQL)
+### Other: Shell script
 
 ## Structure
 1. `my_llm/llm_cli.py`
