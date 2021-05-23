@@ -2,7 +2,7 @@ import pymongo
 from bson.objectid import ObjectId
 from bson.objectid import InvalidId
 
-from .config import CLIENT_URI, COLLECTION_NAME, DATABASE_NAME
+from config import CLIENT_URI, COLLECTION_NAME, DATABASE_NAME
 
 client = pymongo.MongoClient(CLIENT_URI)
 db = client[COLLECTION_NAME]
