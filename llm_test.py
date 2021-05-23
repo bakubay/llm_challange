@@ -4,7 +4,7 @@ from bson.objectid import ObjectId
 import io
 import sys
 
-import my_llm.llm_cli as llm_cli
+import llm_cli
 
 class TestLLM(unittest.TestCase):
     def test_create_order(self):
