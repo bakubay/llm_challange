@@ -1,0 +1,5 @@
+#!/bin/sh
+
+llm(){
+    python3 my_llm/llm_handler.py $1 $2 $3
+}
