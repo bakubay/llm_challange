@@ -37,19 +37,19 @@ source setup
 CLI command to create order using [to] and [from] arguments.
 
 ```bash
-create_order "Hong Kong Island" "Tai Po Market"
+llm create_order "Hong Kong Island" "Tai Po Market"
 ```
 
 ### `list_order`
 CLI command to list all orders in database.
 ```bash
-list_orders
+llm list_orders
 ```
 
 ### `take_order [id]`
 CLI command to take an order from existing orders.
 ```bash
-take_order  60a8d2b3e5a13d5fae066a12
+llm take_order  60a8d2b3e5a13d5fae066a12
 ```
 
 ## Example:
